@@ -43,7 +43,7 @@ root/
 ## Installation
 ```bash
 git clone <repo-url>
-cd oss-audit-24BSA10110
+cd oss-audit-24BSA10297
 chmod +x scripts/*.sh
 ```
 
